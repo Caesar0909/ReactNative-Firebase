@@ -290,4 +290,4 @@ All the credits goes to all library creators and contributors to the open source
 
 I really appreciate any suggestions, feedback, PRs and issues.
 
-Made with ♥ by [JSapp.me](http://jsapp.me)
+Created by Caesar
